@@ -2,4 +2,6 @@ keras/DeepLearning2018/*
 keras/Lecture5/.ipynb_checkpoints/*
 misc
 .idea
-
+keras/Lecture6/cats_and_dogs_small_1.h5
+keras/Lecture6/cats_and_dogs_small_2.h5
+keras/.DS_Store
